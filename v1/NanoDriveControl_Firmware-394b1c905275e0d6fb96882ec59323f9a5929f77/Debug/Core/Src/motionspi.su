@@ -1,0 +1,5 @@
+../Core/Src/motionspi.c:19:6:HAL_SPI_TxCpltCallback	16	static
+../Core/Src/motionspi.c:24:6:SendMotionSPIData	24	static
+../Core/Src/motionspi.c:40:6:SendMotionSPIDataExtended	48	static,ignoring_inline_asm
+../Core/Src/motionspi.c:91:8:SendParamSPIDataExtended	40	static
+../Core/Src/motionspi.c:111:6:ReceiveSPIData	32	static,ignoring_inline_asm

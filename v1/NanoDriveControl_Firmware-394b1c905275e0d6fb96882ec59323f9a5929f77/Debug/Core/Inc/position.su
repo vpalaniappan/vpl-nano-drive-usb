@@ -1,0 +1,9 @@
+../Core/Inc/position.c:34:6:TIM3_IRQHandler	64	static
+../Core/Inc/position.c:73:6:PositionUpdate	64	static
+../Core/Inc/position.c:112:6:CheckMove	136	static
+../Core/Inc/position.c:216:6:CheckPos	24	static
+../Core/Inc/position.c:241:6:CheckLimitConfig	16	static
+../Core/Inc/position.c:254:6:CheckNewLimit	24	static
+../Core/Inc/position.c:268:16:getJogType	4	static
+../Core/Inc/position.c:277:11:getCurrentPos	4	static
+../Core/Inc/position.c:283:16:getMoveType	16	static

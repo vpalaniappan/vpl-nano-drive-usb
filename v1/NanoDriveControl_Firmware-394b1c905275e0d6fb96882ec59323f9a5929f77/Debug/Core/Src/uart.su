@@ -1,0 +1,6 @@
+../Core/Src/uart.c:29:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/uart.c:68:6:HAL_UART_TxCpltCallback	16	static
+../Core/Src/uart.c:75:6:procQueUSART1	32	static
+../Core/Src/uart.c:198:6:procQueUSART3	16	static
+../Core/Src/uart.c:224:6:GetDestination	24	static
+../Core/Src/uart.c:284:6:FlushLine	24	static

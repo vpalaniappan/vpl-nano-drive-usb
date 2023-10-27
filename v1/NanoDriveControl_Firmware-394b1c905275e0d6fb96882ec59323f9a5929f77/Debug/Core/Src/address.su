@@ -1,0 +1,6 @@
+../Core/Src/address.c:22:9:getAxis	4	static
+../Core/Src/address.c:26:6:setAxis	16	static
+../Core/Src/address.c:30:9:getGate	4	static
+../Core/Src/address.c:34:6:setGate	16	static
+../Core/Src/address.c:38:6:WaitForTurn	16	static,ignoring_inline_asm
+../Core/Src/address.c:57:6:GetAddress	24	static,ignoring_inline_asm

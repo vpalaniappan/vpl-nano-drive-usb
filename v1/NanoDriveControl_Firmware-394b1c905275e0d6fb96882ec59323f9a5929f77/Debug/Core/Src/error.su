@@ -1,0 +1,7 @@
+../Core/Src/error.c:20:6:AddError	16	static
+../Core/Src/error.c:58:6:AddErrorRLU	16	static
+../Core/Src/error.c:67:9:ErrorBufferEmpty	4	static
+../Core/Src/error.c:76:5:GetError	16	static
+../Core/Src/error.c:100:6:ClearErrors	4	static
+../Core/Src/error.c:108:5:CheckErrors	4	static
+../Core/Src/error.c:115:6:ErrorLookup	16	static

@@ -1,0 +1,17 @@
+../Core/Src/flash.c:109:9:read_flash_8b	24	static
+../Core/Src/flash.c:118:10:read_flash_16b	24	static
+../Core/Src/flash.c:127:10:read_flash_32b	24	static
+../Core/Src/flash.c:136:10:read_flash_64b	40	static
+../Core/Src/flash.c:154:6:write_flash_8b	24	static
+../Core/Src/flash.c:160:6:write_flash_16b	24	static
+../Core/Src/flash.c:166:6:write_flash_32b	24	static
+../Core/Src/flash.c:172:6:write_flash_64b	48	static
+../Core/Src/flash.c:184:6:ReadParameters	408	static
+../Core/Src/flash.c:329:6:ReadMemory	24	static
+../Core/Src/flash.c:353:6:BufReadFromFlash	24	static
+../Core/Src/flash.c:366:6:ReadTracePage	16	static
+../Core/Src/flash.c:379:6:EraseTraceRegion	4	static
+../Core/Src/flash.c:395:6:WriteParameters	16	static
+../Core/Src/flash.c:488:6:BufWriteToFlash	24	static
+../Core/Src/flash.c:530:6:SetupDefaults	8	static
+../Core/Src/flash.c:612:6:WriteMiscParam	24	static

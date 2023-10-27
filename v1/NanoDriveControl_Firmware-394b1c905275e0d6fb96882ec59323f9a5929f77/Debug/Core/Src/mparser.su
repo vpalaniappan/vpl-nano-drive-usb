@@ -1,0 +1,7 @@
+../Core/Src/mparser.c:16:5:ParseCommand	24	static
+../Core/Src/mparser.c:76:5:GetInstruction	24	static
+../Core/Src/mparser.c:96:5:DetectRequest	40	static
+../Core/Src/mparser.c:131:5:GetArgs	48	static
+../Core/Src/mparser.c:168:5:GetParameter	208	static
+../Core/Src/mparser.c:411:10:combine_chars	32	static
+../Core/Src/mparser.c:429:9:is_letter	16	static

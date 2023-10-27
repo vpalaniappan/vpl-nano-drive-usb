@@ -1,0 +1,9 @@
+position.c:34:6:TIM3_IRQHandler	6
+position.c:73:6:PositionUpdate	6
+position.c:112:6:CheckMove	27
+position.c:216:6:CheckPos	6
+position.c:241:6:CheckLimitConfig	4
+position.c:254:6:CheckNewLimit	4
+position.c:268:16:getJogType	2
+position.c:277:11:getCurrentPos	1
+position.c:283:16:getMoveType	2

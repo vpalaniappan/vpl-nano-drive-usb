@@ -1,0 +1,2 @@
+../Core/Src/trace.c:17:10:getPointsTaken	4	static
+../Core/Src/trace.c:22:6:SetupTrace	24	static
